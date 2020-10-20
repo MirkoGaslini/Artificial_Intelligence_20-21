@@ -1,0 +1,9 @@
+RNN & LSTM
+https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05#:~:text=Attention%20is%20a%20mechanism%20combined,learning%20and%20of%20higher%20quality.&text=The%20encoder%20outputs%20a%20single,as%20input%20to%20the%20decoder.
+https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/
+
+Example in pyhton
+https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+https://stackabuse.com/time-series-analysis-with-lstm-using-pythons-keras-library/
+
